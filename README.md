@@ -40,9 +40,9 @@ Rihla Compiler is a custom-built compiler for the **Rihla Programming Language**
 1. Write a Rihla program in a `.rhl` file. Example:
    ```
 // Rihla Sample Program
-INPUT x
+WRITE x
 y = x + 5
-OUTPUT y
+SHOW y
    ```
 
 2. Compile the program:
@@ -61,8 +61,8 @@ OUTPUT y
 - **Variables**:
   - Declare and use variables for computations and I/O.
 - **Statements**:
-  - **Input**: `INPUT x`
-  - **Output**: `OUTPUT x`
+  - **Input**: `WRITE x`
+  - **Output**: `SHOW x`
   - **Assignment**: `x = y + z`
 
 ### Example:
@@ -71,7 +71,7 @@ OUTPUT y
 INPUT a
 INPUT b
 c = a + b
-OUTPUT c
+SHOW c
 ```
 
 ---
