@@ -34,26 +34,6 @@ Rihla Compiler is a custom-built compiler for the **Rihla Programming Language**
 2. **Development Environment**:
    - A compiler like GCC or Visual Studio Code with appropriate extensions for C++.
 
-### **Steps**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/rihla-compiler.git
-   cd rihla-compiler
-   ```
-2. Build the project:
-   - For GCC:
-     ```bash
-     g++ -o rihla_compiler main.cpp scanner.cpp parser.cpp semantic.cpp codegen.cpp
-     ```
-   - For Visual Studio:
-     - Open the project in Visual Studio and build the solution.
-
-3. Run the compiler:
-   ```bash
-   ./rihla_compiler <source_file.rhl>
-   ```
-
----
 
 ## **Usage**
 
