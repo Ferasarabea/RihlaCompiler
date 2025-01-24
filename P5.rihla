@@ -1,0 +1,16 @@
+;-------------------------------------------------------------
+; Dr. Art Hanna
+; P5.rihla
+;-------------------------------------------------------------
+
+PROGRAM
+   VAR x: INT.
+   VAR y: INT.
+
+   WRITE "X?", x.
+   WRITE "Y?", y.
+   IF (x < y) || (x==y) THEN
+       SHOW "X is less than or equal to y", NL.
+   END
+
+ENDRIHLA
