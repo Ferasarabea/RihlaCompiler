@@ -122,6 +122,3 @@ For questions or feedback, please contact:
 - **Feras Rabea**  
 - Email: [ferasarabea@gmail.com](mailto:ferasarabea@gmail.com)
 
----
-
-Let me know if you’d like further adjustments or additional sections! 🚀
